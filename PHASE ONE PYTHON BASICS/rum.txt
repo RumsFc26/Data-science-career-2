@@ -1,0 +1,7 @@
+
+0                              braund, mr. owen harris
+1    cumings, mrs. john bradley (florence) briggs th...
+2                               heikkinen, miss. laina
+3         futrelle, mrs. jacques heath s
+4                             allen, mr. william henry
+Name: Name, dtype: object

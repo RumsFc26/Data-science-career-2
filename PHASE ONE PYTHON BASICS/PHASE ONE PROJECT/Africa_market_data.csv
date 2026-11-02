@@ -1,0 +1,31 @@
+date,city,country,product,price_fcfa,price_usd,source
+2026-03-01,Yaounde,Cameroon,maize,350,0.58,local_market
+2026-03-01,Yaounde,Cameroon,cassava,250,0.42,farmer
+2026-03-01,Yaounde,Cameroon,palm oil,1200,2.0,wholesale_market
+2026-03-01,Yaounde,Cameroon,rice,600,1.0,supermarket
+2026-03-01,Yaounde,Cameroon,beans,700,1.17,street_vendor
+2026-03-01,Yaounde,Cameroon,yam,500,0.83,farmer
+2026-03-01,Yaounde,Cameroon,plantain,800,1.33,street_vendor
+2026-03-01,Yaounde,Cameroon,garri,400,0.67,wholesale_market
+2026-03-01,Yaounde,Cameroon,tomato,300,0.5,farmer
+2026-03-01,Yaounde,Cameroon,onion,350,0.58,local_market
+2026-03-01,Lagos,Nigeria,maize,370,0.62,wholesale_market
+2026-03-01,Lagos,Nigeria,cassava,270,0.45,farmer
+2026-03-01,Lagos,Nigeria,palm oil,1300,2.17,wholesale_market
+2026-03-01,Lagos,Nigeria,rice,650,1.08,supermarket
+2026-03-01,Lagos,Nigeria,beans,720,1.2,local_market
+2026-03-01,Lagos,Nigeria,yam,520,0.87,farmer
+2026-03-01,Lagos,Nigeria,plantain,850,1.42,street_vendor
+2026-03-01,Lagos,Nigeria,garri,420,0.7,wholesale_market
+2026-03-01,Lagos,Nigeria,tomato,320,0.53,farmer
+2026-03-01,Lagos,Nigeria,onion,370,0.62,local_market
+2026-03-01,Nairobi,Kenya,maize,330,0.55,local_market
+2026-03-01,Nairobi,Kenya,cassava,240,0.4,farmer
+2026-03-01,Nairobi,Kenya,palm oil,1150,1.92,wholesale_market
+2026-03-01,Nairobi,Kenya,rice,580,0.97,supermarket
+2026-03-01,Nairobi,Kenya,beans,690,1.15,street_vendor
+2026-03-01,Nairobi,Kenya,yam,480,0.8,farmer
+2026-03-01,Nairobi,Kenya,plantain,780,1.3,street_vendor
+2026-03-01,Nairobi,Kenya,garri,390,0.65,wholesale_market
+2026-03-01,Nairobi,Kenya,tomato,290,0.48,farmer
+2026-03-01,Nairobi,Kenya,onion,340,0.57,local_market
